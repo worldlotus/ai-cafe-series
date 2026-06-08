@@ -1,0 +1,12 @@
+# 마스터 코드베이스는 시즌 후반부에 별도 연동
+master/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 환경 설정
+.env
+*.env
