@@ -6,8 +6,8 @@
 ## 시작하기
 
 ```bash
-git clone {레포 URL}
-cd cafe-blog-agent
+git clone https://github.com/worldlotus/ai-cafe-series.git
+cd ai-cafe-series
 pip install -r requirements.txt
 ```
 
